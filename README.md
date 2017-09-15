@@ -14,9 +14,9 @@ This repository contains the [firebase cloud functions](https://firebase.google.
 1. [git](https://git-scm.com/downloads)
 2. [npm and node js](https://docs.npmjs.com/getting-started/what-is-npm)
 
-If you will be deploying functions<br>
-3. [firebase cli](https://github.com/firebase/firebase-tools)
-_Note: when you run
+If you will be deploying functions
+
+3. [firebase cli](https://github.com/firebase/firebase-tools) _Note: when you run
 ```bash
 firebase login
 ```
