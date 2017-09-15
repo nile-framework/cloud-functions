@@ -15,7 +15,7 @@ This repository contains the [firebase cloud functions](https://firebase.google.
 If you will be deploying functions
 
 3. [firebase cli](https://github.com/firebase/firebase-tools)
-<br>
+
 When you run
 ```bash
 firebase login
