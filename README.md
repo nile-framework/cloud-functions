@@ -52,7 +52,7 @@ pwd
 ```
 you get <strong>/cloud-functions</strong>
 
-5. You are now ready to either [contribute](#) or [deploy cloud functions](#)
+5. You are now ready to either [contribute](#contribute) or [deploy cloud functions](#deployCloudFunctions)
 
 
 ## <a name="contribute"></a>Contribute
