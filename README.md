@@ -30,4 +30,21 @@ firebase login
 git clone https://github.com/nile-framework/cloud-functions.git
 ```
 
-2. Change directory into
+2. Change directory into the <strong>functions</strong> directory within the cloud-functions repository we just cloned
+```bash
+cd cloud-functions/functions
+```
+
+3. Install the dependecies
+```bash
+npm install
+```
+
+4. Change directory to the root of the cloud functions repository
+```bash
+cd ..
+```
+so that when you check your working directory is /cloud-functions
+```bash
+pwd
+```
