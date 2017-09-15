@@ -10,7 +10,7 @@ This repository contains the [firebase cloud functions](https://firebase.google.
 4. [i18n](#i18n) (adding languages)
 
 
-## <a name="prerequisites">
+## <a name="prerequisites"></a>Prerequisites
 1. [git](https://git-scm.com/downloads)
 2. [npm and node js](https://docs.npmjs.com/getting-started/what-is-npm)
 
