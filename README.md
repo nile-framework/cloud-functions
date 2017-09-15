@@ -16,11 +16,12 @@ This repository contains the [firebase cloud functions](https://firebase.google.
 
 If you will be deploying functions
 
-3. [firebase cli](https://github.com/firebase/firebase-tools) _Note: when you run
+3. [firebase cli](https://github.com/firebase/firebase-tools)
+When you run
 ```bash
 firebase login
 ```
-_Note: you should see that you are logged in with the email you were invited to the firebase project with.
+ you should see that you are logged in with the email you were invited to the firebase project with.
 
 
 ## <a name="getting-started"></a>Getting Started
