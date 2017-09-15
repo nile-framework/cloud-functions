@@ -5,6 +5,8 @@ This repository contains the [firebase cloud functions](https://firebase.google.
 ## Table of Contents
 0. [Prerequisites](#prerequisites)
 1. [Getting Started](#getting-started)
+2. [Contribute](#contribute)
+3. [Deploy Cloud Functions](#deployCloudFunctions)
 
 
 
@@ -44,7 +46,15 @@ npm install
 ```bash
 cd ..
 ```
-so that when you check your working directory is /cloud-functions
+so that when you check your working directory
 ```bash
 pwd
 ```
+you get <strong>/cloud-functions</strong>
+
+5. You are now ready to either [contribute](#) or [deploy cloud functions](#)
+
+
+## <a name="contribute"></a>Contribute
+
+## <a name="deployCloudFunctions"></a>Deploy Cloud Functions
